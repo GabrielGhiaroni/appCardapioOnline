@@ -13,6 +13,38 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/gabrielghiaroni/Desktop/projetoCardapio/appCardapioOnline/wwwroot/images/bolochocolate.jpeg",
+      "PackagePath": "staticwebassets/images/bolochocolate.jpeg"
+    },
+    {
+      "Id": "/Users/gabrielghiaroni/Desktop/projetoCardapio/appCardapioOnline/wwwroot/images/carrinhoCompras.png",
+      "PackagePath": "staticwebassets/images/carrinhoCompras.png"
+    },
+    {
+      "Id": "/Users/gabrielghiaroni/Desktop/projetoCardapio/appCardapioOnline/wwwroot/images/fotosushi.jpeg",
+      "PackagePath": "staticwebassets/images/fotosushi.jpeg"
+    },
+    {
+      "Id": "/Users/gabrielghiaroni/Desktop/projetoCardapio/appCardapioOnline/wwwroot/images/hamburguer.webp",
+      "PackagePath": "staticwebassets/images/hamburguer.webp"
+    },
+    {
+      "Id": "/Users/gabrielghiaroni/Desktop/projetoCardapio/appCardapioOnline/wwwroot/images/lixeira.png",
+      "PackagePath": "staticwebassets/images/lixeira.png"
+    },
+    {
+      "Id": "/Users/gabrielghiaroni/Desktop/projetoCardapio/appCardapioOnline/wwwroot/images/milkshake.jpeg",
+      "PackagePath": "staticwebassets/images/milkshake.jpeg"
+    },
+    {
+      "Id": "/Users/gabrielghiaroni/Desktop/projetoCardapio/appCardapioOnline/wwwroot/images/pizza.jpeg",
+      "PackagePath": "staticwebassets/images/pizza.jpeg"
+    },
+    {
+      "Id": "/Users/gabrielghiaroni/Desktop/projetoCardapio/appCardapioOnline/wwwroot/images/whiteCarrinhoCompras.png",
+      "PackagePath": "staticwebassets/images/whiteCarrinhoCompras.png"
+    },
+    {
       "Id": "/Users/gabrielghiaroni/Desktop/projetoCardapio/appCardapioOnline/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
