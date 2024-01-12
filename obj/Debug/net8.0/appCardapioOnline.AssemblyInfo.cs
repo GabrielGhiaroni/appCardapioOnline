@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("appCardapioOnline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cde22846f5b4c94a87e175b89aaf0aca12293a34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3879de7ea3138053cf030540262a93412bce1312")]
 [assembly: System.Reflection.AssemblyProductAttribute("appCardapioOnline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("appCardapioOnline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
